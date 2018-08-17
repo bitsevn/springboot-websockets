@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: init5_0
+Build-Jdk: 9
+Implementation-Title: websockets
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: in.cubestack
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/websockets
+Created-By: Maven Integration for Eclipse
+
